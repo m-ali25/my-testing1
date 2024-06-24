@@ -61,5 +61,6 @@ if st.button("Show my Pokemon's information"):
     st.subheader('Comparison with Other Pokemon:')
     st.bar_chart(comparison_heights)
     st.bar_chart(comparison_weights)
+
     
     
